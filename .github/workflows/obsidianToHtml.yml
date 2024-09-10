@@ -1,14 +1,24 @@
-            - name: hugo-obsidian
-  # You may pin to the exact commit or the version.
-  # uses: jackyzha0/hugo-obsidian@a7bc6ab3db36532e1827610a8ffcb081794ef82b
-  uses: jackyzha0/hugo-obsidian@v2.20
-  with:
-    # Input Directory
-    input: # optional, default is .
-    # Output Directory
-    output: # optional, default is .
-    # Index content
-    index: # optional, default is false
-    # Root of Repository
-    root: # optional, default is .
-          
+name: ci
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-roamlinks-plugin
+      - run: pip install mkdocs-rss-plugin
+      # - run: pip install mkdocs-mermaid2-plugin
+      - run: mkdocs gh-deploy --force
