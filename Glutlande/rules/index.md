@@ -1,0 +1,1 @@
+Glutlande aus einer Idee als BitD Hack entstanden. An den Basisregel wird nicht viel geändert. Hauptsächlich werden hier Konzepte neu interpretiert, bspw. die Glut als Crew der Gruppe, und thematisch angepasste Playbooks bereitgestellt.
