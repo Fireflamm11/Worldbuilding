@@ -8,22 +8,21 @@ Lediglich die drei Hauptstätte des Nordens, des Westens und des Südens sind in
 ## Die drei Reiche 
 
 ### Der Westen
-Der Herz des Reiches lebt in Wohlstand, genährt vom Land in Bodenschätzen und fruchtbarer Erde.
+*Der Herz des Reiches lebt in Wohlstand, genährt vom Land in Bodenschätzen und fruchtbarer Erde.*
 
 In den Städten bilden große Schmieden das industrielle Zentrum des Reiches und Händler mit ihren Karawanen gehen täglich ein und aus.
 
-In den Dörfer gilt es das Land zu nutzen. Mienen müssen gegraben, die Felder bestellt werden.
+In den Dörfer gilt es das Land zu nutzen, die Felder müssen bestellt werden.
 
-## Der Norden
-Von der Kälte und kargem Boden geprägt sind die Menschen des Nordens ein zähes Volk.
+### Der Norden
+*Von der Kälte und kargem Boden geprägt sind die Menschen des Nordens ein zähes Volk.*
 
-Ihre Städte sind Orte des Zusammenkommens und der Gemeinschaft, um gemeinsam gegen die Natur zu überstehen.
-
+Der Westen des Landes ist von Gebirgen geprägt, in dessen Tälern sich Siedlungen sammeln, um Bergbau zu betreiben. Im Osten geht die Landschaft in Tundra und Taiga über 
+Ihre Städte sind Orte des Zusammenkommen und der Gemeinschaft, um gemeinsam gegen die Natur zu überstehen.
 In den Dörfer hat man gelernt sich gegen die Natur zu behaupten und entgegen aller Erwartungen doch etwas Leben aus dem Land zu ziehen.
 
 ### Der Süden
-Geplagt von den Bestien der Südlande haben die Menschen des Südens gelernt für ihr Überleben zu kämpfen.
+*Geplagt von den Bestien haben die Menschen des Südens gelernt für ihr Überleben zu kämpfen.* 
 
-Die Städte gleichen Festungen inmitten des dichten Dschungels, in denen alles von Wert, materiell oder immateriell, vor den Bestien geschützt wird.
-
-Die Dörfer sind Nomaden, die zwischen sicheren Oasen wandern und ein jeder für sein Überleben kämpfen kann.
+Dichter Dschungel in denen Flora und Fauna menschlichem Leben erschweren, gespalten durch eine Unzahl an Flüssen.
+Das Leben im Süden ist zweigeteilt: Die eine Hälfte der Menschen leben in Nomaden-Gruppen, die in schwimmender Siedlungen entlang der Flüsse reisen, geschützt vor den Kreaturen an Land. Die andere hälfte lebt in den wenigen befestigten Siedlungen, die Festungen gleichen. 
